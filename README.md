@@ -1,20 +1,16 @@
 # Hello There!
-## I'm Bruno Noriller (he/him/his), I solve problems.
+## I'm Bruno Noriller, I solve problems.
 
 - 🖐️ I'm Fullstack! Currently working at Banco do Brasil.
+  - All the stuff I do at Banco do Brasil is internal only 😢
 - 🧠 Right now I'm going deep on Javascript, React and Node. 
 - 👨‍💻 I'm searching for a job abroad!
   - 🏠 I'm currently in Brazil 🇧🇷
+- 😃 Pronouns: he/him/his
 
 ### Take a look around and message me if you want.
 
-<div>
-  <a href="https://github.com/noriller">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noriller&count_private=true&show_icons=true&theme=dracula&border_radius=24"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noriller&layout=compact&theme=dracula&border_radius=24"/>
-</div>
-
-### Contact me
+## Contact me
   
 <div>
   <a href="https://www.linkedin.com/in/noriller/" target="_blank">
@@ -29,6 +25,15 @@
   <a href="https://dev.to/noriller" target="_blank">
     <img height="35" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
   </a>
+</div>
+
+###
+---
+
+<div>
+  <a href="https://github.com/noriller">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noriller&count_private=true&show_icons=true&theme=dracula&border_radius=24"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noriller&layout=compact&theme=dracula&border_radius=24"/>
 </div>
 
 ### What I use Most
